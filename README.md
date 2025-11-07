@@ -88,9 +88,3 @@ O código-fonte foi versionado e publicado em repositório no **GitHub**, conten
    ```
 
 ---
-
-
-
----
-
-Quer que eu já gere esse README formatado em arquivo `.md` pra tu baixar e subir no GitHub?
